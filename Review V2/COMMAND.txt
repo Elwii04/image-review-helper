@@ -1,0 +1,2 @@
+py -3.12 -m PyInstaller main.py --onefile --windowed ^
+  --add-data "C:/Users/elias/AppData/Local/Programs/Python/Python312/Lib/site-packages/tkinterdnd2/tkdnd/win-x64/*;tkinterdnd2/tkdnd/win-x64"
